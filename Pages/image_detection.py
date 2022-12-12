@@ -1,5 +1,5 @@
-import cv2
 import streamlit as st
+import cv2
 import os
 from utils.detection import make_prediction, draw_detection_result
 
